@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+server/chatroom.db
+server/chatroom.db-*
+server/uploads/
+.streamlit/secrets.toml
+venv/
+.venv/
+*.log
